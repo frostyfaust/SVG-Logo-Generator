@@ -9,6 +9,13 @@ This project helps generate a new SVG logo utilizing inquirer to prompt the user
 [SVG-Logo demo.webm](https://github.com/frostyfaust/SVG-Logo-Generator/assets/55112932/b40558b2-6219-44a6-9c43-91fd5a8b6acb)
 
 
+## Technologies Used
+
+- Javascript
+- Node.js
+- Inquirer
+- Jest
+
 ## Table of Contents
   
 - [Installation](#installation)
